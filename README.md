@@ -1,4 +1,6 @@
 # fantastic-giggle
 This is my git repository
 <br>
-Author - Aditya 
+Author - Aditya pratap singh
+
+
